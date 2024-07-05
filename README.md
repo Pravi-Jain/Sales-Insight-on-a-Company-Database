@@ -50,8 +50,11 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 
 # Power BI Dashboard for Analysis
 
+### Key Insights
 <img width="587" alt="Sales Insight (1)" src="https://github.com/Pravi-Jain/Sales-Insight-on-a-Company-Database/assets/140709107/f02ade51-0a7e-4d90-ad23-779f21ec2302">
 
+### Profit Analysis
 <img width="588" alt="Sales Insight (2)" src="https://github.com/Pravi-Jain/Sales-Insight-on-a-Company-Database/assets/140709107/37cb5a9d-4874-49d2-bd64-e59d74c43171">
 
+### Performance Insights
 <img width="588" alt="Sales Insight (3)" src="https://github.com/Pravi-Jain/Sales-Insight-on-a-Company-Database/assets/140709107/aa9a20ae-bc25-4604-8eba-ee5366780a0a">
